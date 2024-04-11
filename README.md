@@ -1,13 +1,6 @@
-![SketchBook (1)](https://github.com/stiantha/SketchBook/assets/132207909/f386d598-e3ce-4266-bcfd-07059b977b04)
-
+![SketchBook (2)](https://github.com/stiantha/SketchBook/assets/132207909/2cda1ec9-f64f-4855-8a3c-e2b8f682710f)
 
 ## :beginner: About
-Collection of resources for developers.<br>
-- **Features**
-    - Markdown Format
-    - Search Functionality
-    - Resource Submission
-    - Dark Mode
 
 ## :wrench: Development
 
