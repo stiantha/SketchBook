@@ -1,5 +1,6 @@
 
 ![SketchBook (6)](https://github.com/stiantha/SketchBook/assets/132207909/2adb4d74-47ba-422e-b5da-308fbb066ab5)
+![SketchBook](https://github.com/stiantha/SketchBook/assets/132207909/8bbe40e3-e88b-4328-9910-033097e15f60)
 
 ## :beginner: About
 - This project aims to create a website for storing private and public sketches with or without reference photos.
