@@ -9,7 +9,7 @@
 
 #### :computer: Tech
 
-- (undecided) for the frontend
+- Vue for the frontend
 - Flutter for mobile application
 - Node.js for the backend
 - Express.js for the RESTful API
