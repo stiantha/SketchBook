@@ -4,7 +4,7 @@
 ## :beginner: About
 - This project aims to create a website for storing private and public sketches with or without reference photos.
 - The sketch can be uploaded with a mobile application.
-- 
+  
 ## :wrench: Development
 
 #### :computer: Tech
