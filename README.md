@@ -7,10 +7,6 @@
 
 #### :computer: Tech
 
-#### :notebook: Pre-Requisites
-
-- Node.js
-
 #### :file_folder: File Structure
 The basic file structure for the project is as follows:
 ```bash
