@@ -1,4 +1,5 @@
-[SketchBook](https://github.com/stiantha/SketchBook/assets/132207909/fcd2c342-0f6c-4a3b-8309-1e9226283dbf)
+![SketchBook (1)](https://github.com/stiantha/SketchBook/assets/132207909/f386d598-e3ce-4266-bcfd-07059b977b04)
+
 
 ## :beginner: About
 Collection of resources for developers.<br>
