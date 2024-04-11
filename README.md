@@ -1,5 +1,4 @@
-
-![SketchBook](https://github.com/stiantha/SketchBook/assets/132207909/2adb4d74-47ba-422e-b5da-308fbb066ab5)
+![SketchBook (4)](https://github.com/stiantha/SketchBook/assets/132207909/14c2acd3-d852-432f-89ce-95516b000db0)
 
 
 ## :beginner: About
