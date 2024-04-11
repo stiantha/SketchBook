@@ -4,14 +4,12 @@
 ## :beginner: About
 - This project aims to create a website for storing private and public sketches with or without reference photos.
 - The sketch can be uploaded with a mobile application.
-- Public page with all uploads, profile page with user uploads.
+- There will be a public page with all uploads and a profile page with user uploads.
   
 ## :wrench: Development
 
 #### :computer: Tech
 
-- Vue for the frontend
-- Flutter for mobile application
 - Node.js for the backend
 - Express.js for the RESTful API
 - SQL for the database
